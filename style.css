@@ -28,7 +28,7 @@
 
 body
 {
-    background: #760001;
+    background: url('yellow_background/line.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #181818;
 }
